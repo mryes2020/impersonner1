@@ -18,7 +18,7 @@ clearscreen()
 
 #banner 
 print ("Impersonner") 
-print ("Coded by: ") 
+print ("Coded by: SomeoneHackingYourMom") 
 print ("WARNING!!!!!!! To run this script perfectly you need to have installed on your linux machine postfix and have it configured!!")
 print ("WARNING!!!!!!! You have to run me as a root if u havent done it yet!") 
 print ("\n------------------")
