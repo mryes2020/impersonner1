@@ -1,3 +1,4 @@
+# DOING UPDATE
 # impersonner1
 With this script you can send spammy emails with any possible email as a sender (So you can pretsend to be anyone with anykind of email). 
 Which is very powerfull for spamming or phishing 
